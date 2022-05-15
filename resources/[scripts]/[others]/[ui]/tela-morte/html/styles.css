@@ -1,0 +1,162 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  margin: auto;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  overflow: hidden;
+  background: transparent;
+  display: none;
+  
+ 
+}
+
+
+.texto{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  padding-top: 40%;
+}
+
+.texto2{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  color: rgb(255, 23, 23);
+  text-align: center;
+  padding-top: 0%;
+}
+
+.imagem-esquerda{
+  position: absolute;
+  left: 1%;
+  height: auto;
+}
+
+.imagem-direita{
+  position: absolute;
+  right: 1%;
+  height: 100%;
+}
+
+.imagem-morto{
+  position: absolute;
+  top: 15%;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  margin: auto;
+}
+
+.imagem-coracao{
+  position: absolute;
+  top: 40%;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  margin: auto;
+}
+
+.imagem-bater{
+  position: absolute;
+  top: 60%;
+  left: 0;
+  right: 0;
+  text-align: center;
+  margin: auto;
+}
+
+
+
+.imagem-tonto{
+  position: absolute;
+  top: 15%;
+  left: 0;
+  right: 0;
+  text-align: center;
+  margin: auto;
+}
+
+.imagem-voceesta{
+  position: absolute;
+  top: 40%;
+  left: 0;
+  right: 0;
+  text-align: center;
+  margin: auto;
+}
+
+.imagem-inconsciente{
+  position: absolute;
+  top: 55%;
+  left: 0;
+  right: 0;
+  text-align: center;
+  margin: auto;
+}
+
+
+
+.mldesangue{
+  position: absolute;
+  top: 80%;
+  width: 350px;
+  height: 50px;
+  border-radius: 10px;
+  left: 41%;
+  margin: auto;
+  line-height: 50px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  background: rgb(15, 15, 15,0.5);
+}
+
+po{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: rgb(255, 0, 0);
+}
+
+
+bo{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: rgb(255, 0, 0);
+}
+
+@media only screen and (max-width: 1600px) {
+  body
+  {
+      zoom: 0.8;
+  }
+
+}
+@media only screen and (max-width: 1280px) {
+  body {
+      zoom: 0.6;
+  }
+
+
+}
+

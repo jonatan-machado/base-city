@@ -1,0 +1,4 @@
+coloca os arquivos na raiz de xampp\htdocs\
+e starta e seja feliz!
+
+creditos pelo vazamento de discord.gg/dogz1n
